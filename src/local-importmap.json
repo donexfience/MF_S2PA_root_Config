@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "@donexfdz/root-config": "/donexfdz-root-config.js",
+    "@donexfdz/microfrontends-react": "//localhost:9001/donexfdz-microfrontends-react.js",
+    "@donexfdz/microfrontends-react-2": "//localhost:9002/donexfdz-microfrontends-react-2.js",
+    "@donexfdz/microfrontends-react-3": "//localhost:9003/donexfdz-microfrontends-react-3.js",
+    "@donexfdz/microfrontends-utility": "//localhost:9004/donexfdz-microfrontends-utility.js"
+  }
+}

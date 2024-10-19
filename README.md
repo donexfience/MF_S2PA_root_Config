@@ -2,7 +2,6 @@
 
 # Microfrontends - Root Config
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/joacod/microfrontends-root-config/blob/main/LICENSE)
 
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -17,17 +16,6 @@ This is a Microfrontends project built with Single-SPA, this repo contains the s
 
 To ensure everything works correctly, **all** the following repositories must be used.
 
-> `Root Config` -> [microfrontends-root-config](https://github.com/joacod/microfrontends-root-config)
-
-> `Utility Modules` -> [microfrontends-utility](https://github.com/joacod/microfrontends-utility)
-
-> `React (Navigation)` -> [microfrontends-react](https://github.com/joacod/microfrontends-react)
-
-> `Vue (Products)` -> [microfrontends-vue](https://github.com/joacod/microfrontends-vue)
-
-> `Angular (Checkout)` -> [microfrontends-angular](https://github.com/joacod/microfrontends-angular)
-
-_Clone and run all of them._
 
 ## 💻 Development
 

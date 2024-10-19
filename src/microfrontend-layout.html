@@ -1,0 +1,27 @@
+<single-spa-router>
+  <!--
+
+    This is the single-spa Layout Definition for your microfrontends.
+    See https://single-spa.js.org/docs/layout-definition/ for more information.
+
+  -->
+
+  <div id="base">
+    <!-- Route for the base path, this will load react-1 and react-2 -->
+    <route path="/" exact>
+      <div id="navigation">
+        <application name="@donexfdz/microfrontends-react"></application>
+      </div>
+      <div id="navigation-2">
+        <application name="@donexfdz/microfrontends-react-2"></application>
+      </div>
+    </route>
+
+    <!-- Route for app3, this will load only react-3 -->
+    <route path="/app3">
+      <application name="@donexfdz/microfrontends-react-3"></application>
+    </route>
+
+    <main class="main"></main>
+  </div>
+</single-spa-router>
